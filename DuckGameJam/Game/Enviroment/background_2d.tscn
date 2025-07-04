@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://cqanlsmw2cub1"]
+
+[node name="Background2D" type="CanvasLayer"]
