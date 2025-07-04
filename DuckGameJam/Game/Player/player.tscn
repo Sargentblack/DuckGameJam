@@ -1,5 +1,9 @@
-[gd_scene format=3 uid="uid://c7hcsmyhk7dgh"]
+[gd_scene load_steps=2 format=3 uid="uid://c7hcsmyhk7dgh"]
+
+[ext_resource type="PackedScene" uid="uid://cgnxfdnycam2e" path="res://Game/Player/DuckModel.glb" id="1_m57qa"]
 
 [node name="Player" type="Node3D"]
 
 [node name="CharacterBody3D" type="CharacterBody3D" parent="."]
+
+[node name="DuckModel" parent="CharacterBody3D" instance=ExtResource("1_m57qa")]
