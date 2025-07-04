@@ -1,3 +1,13 @@
-[gd_scene format=3 uid="uid://com8shjk7ysbe"]
+[gd_scene load_steps=3 format=3 uid="uid://com8shjk7ysbe"]
+
+[ext_resource type="PackedScene" uid="uid://c7hcsmyhk7dgh" path="res://Game/Player/player.tscn" id="1_0f027"]
+[ext_resource type="PackedScene" uid="uid://cqanlsmw2cub1" path="res://Game/Enviroment/background_2d.tscn" id="1_2c62f"]
 
 [node name="MainScene" type="Node3D"]
+
+[node name="Background2D" parent="." instance=ExtResource("1_2c62f")]
+
+[node name="Player" parent="." instance=ExtResource("1_0f027")]
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 0.271071, 0.962559, 0, -0.962559, 0.271071, 0.689853, 10.1263, 2.56505)
