@@ -1,12 +1,19 @@
+<<<<<<< HEAD
 [gd_scene load_steps=3 format=3 uid="uid://c7hcsmyhk7dgh"]
 
 [sub_resource type="CapsuleMesh" id="CapsuleMesh_u8qry"]
 
 [sub_resource type="SphereShape3D" id="SphereShape3D_u8qry"]
+=======
+[gd_scene load_steps=2 format=3 uid="uid://c7hcsmyhk7dgh"]
+
+[ext_resource type="PackedScene" uid="uid://cgnxfdnycam2e" path="res://Game/Player/DuckModel.glb" id="1_m57qa"]
+>>>>>>> 09ed1a3a16c6def9a47ad4bd0dcfbee54e141fab
 
 [node name="Player" type="Node3D"]
 
 [node name="CharacterBody3D" type="CharacterBody3D" parent="."]
+<<<<<<< HEAD
 axis_lock_linear_y = true
 axis_lock_angular_y = true
 
@@ -15,3 +22,7 @@ mesh = SubResource("CapsuleMesh_u8qry")
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="CharacterBody3D"]
 shape = SubResource("SphereShape3D_u8qry")
+=======
+
+[node name="DuckModel" parent="CharacterBody3D" instance=ExtResource("1_m57qa")]
+>>>>>>> 09ed1a3a16c6def9a47ad4bd0dcfbee54e141fab
