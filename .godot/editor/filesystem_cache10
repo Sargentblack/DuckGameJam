@@ -1,0 +1,13 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1751545651
+funding.yml::TextFile::-1::1751545651::0::1::::<><><>0<>0<><>::
+icon.png::CompressedTexture2D::860092167997192393::1751545651::1751545652::1::::<><><>0<>0<>eba82745bb8c995d608e8a243a7c9b97<>res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex::
+icon.svg::CompressedTexture2D/CompressedTexture2D::881077761826206385::1751541443::1751541452::1::::<><><>0<>0<>511d6b72ae7beca6d9300fdd4aa7f980<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+README.md::TextFile::-1::1751545650::0::1::::<><><>0<>0<><>::
+::res://addons/::1751545651
+::res://addons/vcs_export_platform/::1751545651
+plugin.cfg::TextFile::988527043375799250::1751545651::0::1::::<><><>0<>0<><>::
+plugin.gd::GDScript::3313090395825319036::1751545651::0::1::::<>EditorPlugin<><>0<>1<><>::
+vcs_export_platform.gd::GDScript::1743335624688790808::1751545651::0::1::::VCSEditorExportPlatform<>ToolEditorExportPlatform<><>0<>1<><>::
+::res://scene/::1751541573
+game.tscn::PackedScene::430332871361107002::1751541573::0::1::::<><><>0<>0<><>::
