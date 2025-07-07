@@ -1,3 +1,21 @@
-[gd_scene format=3 uid="uid://cqanlsmw2cub1"]
+[gd_scene load_steps=2 format=3 uid="uid://cqanlsmw2cub1"]
+
+[ext_resource type="Texture2D" uid="uid://lxl0emcbygdm" path="res://icon.svg" id="1_5uwjg"]
 
 [node name="Background2D" type="CanvasLayer"]
+
+[node name="ParallaxBackground" type="ParallaxBackground" parent="."]
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxBackground"]
+position = Vector2(2, 0)
+scale = Vector2(4.17043, 2.81885)
+
+[node name="TextureRect" type="TextureRect" parent="ParallaxBackground/ParallaxLayer"]
+offset_left = 43.0
+offset_top = 37.0
+offset_right = 171.0
+offset_bottom = 165.0
+scale = Vector2(1.74869, 1.46078)
+size_flags_horizontal = 6
+size_flags_vertical = 6
+texture = ExtResource("1_5uwjg")
