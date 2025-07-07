@@ -1,3 +1,8 @@
-[gd_scene format=3 uid="uid://ddsgs3mq5fuu"]
+[gd_scene load_steps=2 format=3 uid="uid://ddsgs3mq5fuu"]
+
+[ext_resource type="PackedScene" uid="uid://djyhcgrnk8xdl" path="res://Game/Enemy/GooseModel.glb" id="1_r5lmg"]
 
 [node name="EnemyContainer" type="Node3D"]
+
+[node name="GooseModel" parent="." instance=ExtResource("1_r5lmg")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.227162, 0, 0.662206)
