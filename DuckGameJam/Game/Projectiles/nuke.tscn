@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://dco3vtsu3g13w"]
+
+[ext_resource type="PackedScene" uid="uid://du77i17ao6sa8" path="res://Game/Projectiles/Nuke.glb" id="1_px0bi"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="Nuke" parent="." instance=ExtResource("1_px0bi")]

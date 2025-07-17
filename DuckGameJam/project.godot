@@ -11,8 +11,17 @@ config_version=5
 [application]
 
 config/name="Duck Game Jam"
+run/main_scene="res://Game/Player/player.tscn"
 config/features=PackedStringArray("4.4", "GL Compatibility")
 config/icon="res://icon.svg"
+
+[autoload]
+
+AeroUnits="*res://addons/godot_aerodynamic_physics/core/singletons/aero_units.gd"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/godot_aerodynamic_physics/plugin.cfg")
 
 [rendering]
 

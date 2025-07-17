@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://k8d8tknm30jk"]
+
+[ext_resource type="PackedScene" uid="uid://rlmojd4ejpy0" path="res://Game/Projectiles/Missile.glb" id="1_w6far"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="Missile" parent="." instance=ExtResource("1_w6far")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0360332, 0, -0.216094)
