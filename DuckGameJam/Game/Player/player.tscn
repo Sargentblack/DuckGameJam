@@ -3,7 +3,10 @@
 [ext_resource type="PackedScene" uid="uid://cgnxfdnycam2e" path="res://Game/Player/DuckModel.glb" id="1_m57qa"]
 [ext_resource type="Script" uid="uid://b7tbxrh06f2gs" path="res://Game/Player/duck_model.gd" id="3_p2hw7"]
 
-[node name="Node3D" type="Node3D"]
+[node name="Player" type="Node3D"]
 
 [node name="DuckModel" parent="." instance=ExtResource("1_m57qa")]
 script = ExtResource("3_p2hw7")
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(-1, -8.74228e-08, -4.76868e-15, -3.5579e-08, 0.406976, 0.913439, -7.98554e-08, 0.913439, -0.406976, 0, 8.66584, -3.96221)
