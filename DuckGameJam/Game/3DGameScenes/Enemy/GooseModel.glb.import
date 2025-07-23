@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://djyhcgrnk8xdl"
-path="res://.godot/imported/GooseModel.glb-8b3cfac93722054bc69ad0b3084fb850.scn"
+path="res://.godot/imported/GooseModel.glb-7b6172d5aaef2cf62368baefa79c44c3.scn"
 
 [deps]
 
-source_file="res://Game/Enemy/GooseModel.glb"
-dest_files=["res://.godot/imported/GooseModel.glb-8b3cfac93722054bc69ad0b3084fb850.scn"]
+source_file="res://Game/3DGameScenes/Enemy/GooseModel.glb"
+dest_files=["res://.godot/imported/GooseModel.glb-7b6172d5aaef2cf62368baefa79c44c3.scn"]
 
 [params]
 

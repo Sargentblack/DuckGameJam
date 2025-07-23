@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://chaxgdhtit3y5"
-path="res://.godot/imported/GooseModel.blend-20839e93bc09fe14d808e31dc1490fab.scn"
+path="res://.godot/imported/GooseModel.blend-f59ae71fb5e75e2831fafc790b086609.scn"
 
 [deps]
 
-source_file="res://assets/GooseModel.blend"
-dest_files=["res://.godot/imported/GooseModel.blend-20839e93bc09fe14d808e31dc1490fab.scn"]
+source_file="res://Assets/3DAssests/GooseModel.blend"
+dest_files=["res://.godot/imported/GooseModel.blend-f59ae71fb5e75e2831fafc790b086609.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://qv1p0tfswqqv"
-path="res://.godot/imported/Terrain(Realistic).blend-1899bb2e9670c85fa47488037b3d92a7.scn"
+path="res://.godot/imported/Terrain(Realistic).blend-1c571c3e6773fa6550e161455615fe61.scn"
 
 [deps]
 
-source_file="res://assets/Terrain(Realistic).blend"
-dest_files=["res://.godot/imported/Terrain(Realistic).blend-1899bb2e9670c85fa47488037b3d92a7.scn"]
+source_file="res://Assets/3DAssests/Terrain(Realistic).blend"
+dest_files=["res://.godot/imported/Terrain(Realistic).blend-1c571c3e6773fa6550e161455615fe61.scn"]
 
 [params]
 

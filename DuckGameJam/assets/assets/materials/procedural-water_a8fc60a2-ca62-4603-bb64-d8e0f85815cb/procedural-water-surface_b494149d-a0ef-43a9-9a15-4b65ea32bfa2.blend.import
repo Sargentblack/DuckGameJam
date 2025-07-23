@@ -8,7 +8,7 @@ valid=false
 
 [deps]
 
-source_file="res://assets/assets/materials/procedural-water_a8fc60a2-ca62-4603-bb64-d8e0f85815cb/procedural-water-surface_b494149d-a0ef-43a9-9a15-4b65ea32bfa2.blend"
+source_file="res://Assets/assets/materials/procedural-water_a8fc60a2-ca62-4603-bb64-d8e0f85815cb/procedural-water-surface_b494149d-a0ef-43a9-9a15-4b65ea32bfa2.blend"
 
 [params]
 

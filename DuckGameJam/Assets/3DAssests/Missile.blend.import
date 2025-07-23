@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ducl6rko1flcv"
-path="res://.godot/imported/Missile.blend-5772e01f002515afe8eb5fee1e92e893.scn"
+path="res://.godot/imported/Missile.blend-1ce0d60fca50d0501ffabb0a91d3cdc1.scn"
 
 [deps]
 
-source_file="res://assets/Missile.blend"
-dest_files=["res://.godot/imported/Missile.blend-5772e01f002515afe8eb5fee1e92e893.scn"]
+source_file="res://Assets/3DAssests/Missile.blend"
+dest_files=["res://.godot/imported/Missile.blend-1ce0d60fca50d0501ffabb0a91d3cdc1.scn"]
 
 [params]
 

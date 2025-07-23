@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dilofkn5rtju1"
-path="res://.godot/imported/stone-40_bump.jpg-7b65f6afd538ac192b1dc6dafe996f4c.ctex"
+uid="uid://bhsuvsfvgc0hf"
+path="res://.godot/imported/stone-40_normals.jpg-d0b25bfe7d22f1e01d20b3939c400b42.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/textures/stone-40_bump.jpg"
-dest_files=["res://.godot/imported/stone-40_bump.jpg-7b65f6afd538ac192b1dc6dafe996f4c.ctex"]
+source_file="res://Assets/3DAssests/textures/stone-40_normals.jpg"
+dest_files=["res://.godot/imported/stone-40_normals.jpg-d0b25bfe7d22f1e01d20b3939c400b42.ctex"]
 
 [params]
 

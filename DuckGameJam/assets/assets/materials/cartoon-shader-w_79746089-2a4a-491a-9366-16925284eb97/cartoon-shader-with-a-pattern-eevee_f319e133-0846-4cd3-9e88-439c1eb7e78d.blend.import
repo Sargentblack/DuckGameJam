@@ -8,7 +8,7 @@ valid=false
 
 [deps]
 
-source_file="res://assets/assets/materials/cartoon-shader-w_79746089-2a4a-491a-9366-16925284eb97/cartoon-shader-with-a-pattern-eevee_f319e133-0846-4cd3-9e88-439c1eb7e78d.blend"
+source_file="res://Assets/assets/materials/cartoon-shader-w_79746089-2a4a-491a-9366-16925284eb97/cartoon-shader-with-a-pattern-eevee_f319e133-0846-4cd3-9e88-439c1eb7e78d.blend"
 
 [params]
 

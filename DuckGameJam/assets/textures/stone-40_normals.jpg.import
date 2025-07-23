@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://crafnpu5d53qg"
-path="res://.godot/imported/stone-40_normals.jpg-0eceed376e8cfd2ae36bfed78f822f99.ctex"
+path="res://.godot/imported/stone-40_normals.jpg-7f38bf0e8147aae258807886232f6241.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/stone-40_normals.jpg"
-dest_files=["res://.godot/imported/stone-40_normals.jpg-0eceed376e8cfd2ae36bfed78f822f99.ctex"]
+source_file="res://Assets/textures/stone-40_normals.jpg"
+dest_files=["res://.godot/imported/stone-40_normals.jpg-7f38bf0e8147aae258807886232f6241.ctex"]
 
 [params]
 

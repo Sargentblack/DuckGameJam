@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://rlmojd4ejpy0"
-path="res://.godot/imported/Missile.glb-a20c38111bfe56bad7672ef2beaa2ec6.scn"
+path="res://.godot/imported/Missile.glb-5a113481cc2003d3dec77a0f86cad83b.scn"
 
 [deps]
 
-source_file="res://Game/Projectiles/Missile.glb"
-dest_files=["res://.godot/imported/Missile.glb-a20c38111bfe56bad7672ef2beaa2ec6.scn"]
+source_file="res://Game/3DGameScenes/Projectiles/Missile.glb"
+dest_files=["res://.godot/imported/Missile.glb-5a113481cc2003d3dec77a0f86cad83b.scn"]
 
 [params]
 

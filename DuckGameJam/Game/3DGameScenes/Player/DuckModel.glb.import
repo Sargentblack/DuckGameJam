@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cgnxfdnycam2e"
-path="res://.godot/imported/DuckModel.glb-bd0fbd9e3476a2fc7f8c400df5a64258.scn"
+path="res://.godot/imported/DuckModel.glb-43bd33b43465f42d0957877b8e7d2a66.scn"
 
 [deps]
 
-source_file="res://Game/Player/DuckModel.glb"
-dest_files=["res://.godot/imported/DuckModel.glb-bd0fbd9e3476a2fc7f8c400df5a64258.scn"]
+source_file="res://Game/3DGameScenes/Player/DuckModel.glb"
+dest_files=["res://.godot/imported/DuckModel.glb-43bd33b43465f42d0957877b8e7d2a66.scn"]
 
 [params]
 

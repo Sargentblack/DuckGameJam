@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://du77i17ao6sa8"
-path="res://.godot/imported/Nuke.glb-240933d2667e61e489760eb89ab5306f.scn"
+path="res://.godot/imported/Nuke.glb-c3e69918ac7b0aaa7f42cd923604b195.scn"
 
 [deps]
 
-source_file="res://Game/Projectiles/Nuke.glb"
-dest_files=["res://.godot/imported/Nuke.glb-240933d2667e61e489760eb89ab5306f.scn"]
+source_file="res://Game/3DGameScenes/Projectiles/Nuke.glb"
+dest_files=["res://.godot/imported/Nuke.glb-c3e69918ac7b0aaa7f42cd923604b195.scn"]
 
 [params]
 

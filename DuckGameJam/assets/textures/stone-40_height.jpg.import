@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bfkn582nroyhc"
-path="res://.godot/imported/stone-40_height.jpg-b902545c2d849fb3631b8e2c90cfdae6.ctex"
+path="res://.godot/imported/stone-40_height.jpg-1e8cc883c6cf60b03fbfd1b84e34ba85.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/stone-40_height.jpg"
-dest_files=["res://.godot/imported/stone-40_height.jpg-b902545c2d849fb3631b8e2c90cfdae6.ctex"]
+source_file="res://Assets/textures/stone-40_height.jpg"
+dest_files=["res://.godot/imported/stone-40_height.jpg-1e8cc883c6cf60b03fbfd1b84e34ba85.ctex"]
 
 [params]
 

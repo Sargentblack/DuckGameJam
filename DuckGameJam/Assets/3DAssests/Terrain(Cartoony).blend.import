@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c0ep8k8yyukqb"
-path="res://.godot/imported/Terrain(Cartoony).blend-0fa2ad730c079fa0c226510835d0867c.scn"
+path="res://.godot/imported/Terrain(Cartoony).blend-115030e47dc463fd5dc42b0e8d2ce4e6.scn"
 
 [deps]
 
-source_file="res://assets/Terrain(Cartoony).blend"
-dest_files=["res://.godot/imported/Terrain(Cartoony).blend-0fa2ad730c079fa0c226510835d0867c.scn"]
+source_file="res://Assets/3DAssests/Terrain(Cartoony).blend"
+dest_files=["res://.godot/imported/Terrain(Cartoony).blend-115030e47dc463fd5dc42b0e8d2ce4e6.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bs6jjx8sqvrhe"
-path="res://.godot/imported/Terrain(Cartoony).glb-31e4a962bb722707dd47368838db91ae.scn"
+path="res://.godot/imported/Terrain(Cartoony).glb-7c1805a412010e82019b7eaaeee0e93b.scn"
 
 [deps]
 
-source_file="res://Game/Enviroment/Terrain(Cartoony).glb"
-dest_files=["res://.godot/imported/Terrain(Cartoony).glb-31e4a962bb722707dd47368838db91ae.scn"]
+source_file="res://Game/3DGameScenes/Enviroment/Terrain(Cartoony).glb"
+dest_files=["res://.godot/imported/Terrain(Cartoony).glb-7c1805a412010e82019b7eaaeee0e93b.scn"]
 
 [params]
 

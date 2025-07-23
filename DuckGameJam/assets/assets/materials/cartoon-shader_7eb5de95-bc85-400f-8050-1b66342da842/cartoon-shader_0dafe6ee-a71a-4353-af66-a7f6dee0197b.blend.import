@@ -8,7 +8,7 @@ valid=false
 
 [deps]
 
-source_file="res://assets/assets/materials/cartoon-shader_7eb5de95-bc85-400f-8050-1b66342da842/cartoon-shader_0dafe6ee-a71a-4353-af66-a7f6dee0197b.blend"
+source_file="res://Assets/assets/materials/cartoon-shader_7eb5de95-bc85-400f-8050-1b66342da842/cartoon-shader_0dafe6ee-a71a-4353-af66-a7f6dee0197b.blend"
 
 [params]
 

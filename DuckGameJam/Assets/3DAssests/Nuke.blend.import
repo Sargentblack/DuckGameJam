@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://3hdjreex22au"
-path="res://.godot/imported/Nuke.blend-3775292675e26d841f2104dd3ab1133e.scn"
+path="res://.godot/imported/Nuke.blend-91e04a6f42909bb1f0ad5e5a7924d514.scn"
 
 [deps]
 
-source_file="res://assets/Nuke.blend"
-dest_files=["res://.godot/imported/Nuke.blend-3775292675e26d841f2104dd3ab1133e.scn"]
+source_file="res://Assets/3DAssests/Nuke.blend"
+dest_files=["res://.godot/imported/Nuke.blend-91e04a6f42909bb1f0ad5e5a7924d514.scn"]
 
 [params]
 

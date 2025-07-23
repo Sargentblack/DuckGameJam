@@ -8,7 +8,7 @@ valid=false
 
 [deps]
 
-source_file="res://assets/assets/materials/cartoon-square-p_a51e43a7-1192-482e-977a-7dc6d005e9ee/cartoon-square-pattern-eevee_79ecb1ad-f38a-47a4-a09c-aa84dda9202e.blend"
+source_file="res://Assets/assets/materials/cartoon-square-p_a51e43a7-1192-482e-977a-7dc6d005e9ee/cartoon-square-pattern-eevee_79ecb1ad-f38a-47a4-a09c-aa84dda9202e.blend"
 
 [params]
 
