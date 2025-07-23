@@ -1,0 +1,24 @@
+[gd_scene load_steps=5 format=3 uid="uid://ce6xteu6xjy31"]
+
+[ext_resource type="Script" uid="uid://x0n31sopr2fx" path="res://Scripts/player.gd" id="1_v0iea"]
+[ext_resource type="Script" uid="uid://b3orqfh3jajxr" path="res://Scripts/collision_shape_2d.gd" id="2_cvnsp"]
+[ext_resource type="Texture2D" uid="uid://ecv4w7s7i8lr" path="res://icon.svg" id="3_6t5aa"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_f60y1"]
+radius = 40.0
+height = 86.0
+
+[node name="Player" type="CharacterBody2D"]
+script = ExtResource("1_v0iea")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CapsuleShape2D_f60y1")
+script = ExtResource("2_cvnsp")
+
+[node name="Image" type="Sprite2D" parent="."]
+position = Vector2(-1, 6)
+scale = Vector2(0.539063, 0.46875)
+texture = ExtResource("3_6t5aa")
+
+[node name="ShootTimer" type="Timer" parent="."]
+process_callback = 0

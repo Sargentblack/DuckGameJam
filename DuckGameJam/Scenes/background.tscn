@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://dljy64umbt34n"]
+
+[ext_resource type="Script" uid="uid://xklre0kbqdgm" path="res://Scripts/parallax_background.gd" id="1_pojwb"]
+[ext_resource type="Texture2D" uid="uid://15nnv7uk13bo" path="res://Assets/SpaceShooterAssetPack_BackGrounds.png" id="1_sn1xx"]
+
+[node name="Background" type="Parallax2D"]
+
+[node name="parallax_background" type="ParallaxBackground" parent="."]
+script = ExtResource("1_pojwb")
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="parallax_background"]
+
+[node name="Space_image" type="Sprite2D" parent="parallax_background/ParallaxLayer"]
+position = Vector2(11, 490)
+scale = Vector2(1.39119, 3.36257)
+texture = ExtResource("1_sn1xx")

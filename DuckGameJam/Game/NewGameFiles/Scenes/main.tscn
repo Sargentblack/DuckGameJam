@@ -1,0 +1,24 @@
+[gd_scene load_steps=7 format=3 uid="uid://c4blqbesjxvn4"]
+
+[ext_resource type="Script" uid="uid://ds3euy5mgewy6" path="res://Game/NewGameFiles/Scripts/node.gd" id="1_21xkr"]
+[ext_resource type="PackedScene" uid="uid://dljy64umbt34n" path="res://Game/NewGameFiles/Scenes/background.tscn" id="2_21xkr"]
+[ext_resource type="PackedScene" uid="uid://ce6xteu6xjy31" path="res://Game/NewGameFiles/Scenes/player.tscn" id="3_21xkr"]
+[ext_resource type="PackedScene" uid="uid://d3muygwhuse1u" path="res://Game/NewGameFiles/Scenes/enemy.tscn" id="4_6bp64"]
+[ext_resource type="PackedScene" uid="uid://c2l7y612e8pc" path="res://Game/NewGameFiles/Scenes/bullet.tscn" id="5_344ge"]
+[ext_resource type="PackedScene" uid="uid://b5r7p3srccgx4" path="res://Game/NewGameFiles/Scenes/ui.tscn" id="6_ynf5e"]
+
+[node name="Main" type="Node"]
+script = ExtResource("1_21xkr")
+
+[node name="Camera2D" type="Camera2D" parent="."]
+
+[node name="Background" parent="." instance=ExtResource("2_21xkr")]
+
+[node name="Player" parent="Background" instance=ExtResource("3_21xkr")]
+
+[node name="Enemy" parent="Background" instance=ExtResource("4_6bp64")]
+
+[node name="Bullet" parent="Background" instance=ExtResource("5_344ge")]
+position = Vector2(-326, -348)
+
+[node name="UI" parent="." instance=ExtResource("6_ynf5e")]
