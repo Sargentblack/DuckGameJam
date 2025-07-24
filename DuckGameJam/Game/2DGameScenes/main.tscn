@@ -1,11 +1,11 @@
 [gd_scene load_steps=7 format=3 uid="uid://c4blqbesjxvn4"]
 
-[ext_resource type="Script" uid="uid://ds3euy5mgewy6" path="res://Game/NewGameFiles/Scripts/node.gd" id="1_21xkr"]
-[ext_resource type="PackedScene" uid="uid://dljy64umbt34n" path="res://Game/NewGameFiles/Scenes/background.tscn" id="2_21xkr"]
-[ext_resource type="PackedScene" uid="uid://ce6xteu6xjy31" path="res://Game/NewGameFiles/Scenes/player.tscn" id="3_21xkr"]
-[ext_resource type="PackedScene" uid="uid://d3muygwhuse1u" path="res://Game/NewGameFiles/Scenes/enemy.tscn" id="4_6bp64"]
-[ext_resource type="PackedScene" uid="uid://c2l7y612e8pc" path="res://Game/NewGameFiles/Scenes/bullet.tscn" id="5_344ge"]
-[ext_resource type="PackedScene" uid="uid://b5r7p3srccgx4" path="res://Game/NewGameFiles/Scenes/ui.tscn" id="6_ynf5e"]
+[ext_resource type="Script" uid="uid://ds3euy5mgewy6" path="res://Scripts/node.gd" id="1_21xkr"]
+[ext_resource type="PackedScene" uid="uid://dljy64umbt34n" path="res://Game/2DGameScenes/background.tscn" id="2_21xkr"]
+[ext_resource type="PackedScene" uid="uid://ce6xteu6xjy31" path="res://Game/2DGameScenes/player.tscn" id="3_21xkr"]
+[ext_resource type="PackedScene" uid="uid://d3muygwhuse1u" path="res://Game/2DGameScenes/enemy.tscn" id="4_6bp64"]
+[ext_resource type="PackedScene" uid="uid://c2l7y612e8pc" path="res://Game/2DGameScenes/bullet.tscn" id="5_344ge"]
+[ext_resource type="PackedScene" uid="uid://b5r7p3srccgx4" path="res://Game/2DGameScenes/ui.tscn" id="6_ynf5e"]
 
 [node name="Main" type="Node"]
 script = ExtResource("1_21xkr")
